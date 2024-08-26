@@ -1,0 +1,17 @@
+// import static org.junit.jupiter.api.Assertions.assertEquals;
+
+// import org.junit.jupiter.api.Test;
+
+public class Main {
+  public static void main(String[] args) {
+    int length = 5; 
+    int width = 7;
+    System.out.println("Area = " + (length * width));
+    System.out.println("Perimeter = " + (2 * (length + width)));
+  }
+
+  // @Test
+  // void addition() {
+  //     assertEquals(2, 1 + 1);
+  // }
+}
