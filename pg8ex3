@@ -1,0 +1,12 @@
+import java.util.*;
+public class Main {
+  public static void main(String[] args) {
+    int a = 16;
+    double b = 4.0;
+    String c = "hello";
+    System.out.print(a+b+c);
+
+
+    
+  }
+}
